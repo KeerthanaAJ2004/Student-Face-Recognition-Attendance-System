@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+env/
+venv/
+
+face detection/face detection/gui/Attendance/*
+face detection/face detection/gui/StudentDetails/StudentDetails.csv
+face detection/face detection/gui/trainingImage/*
+face detection/face detection/gui/TrainingImage/*
+face detection/face detection/gui/TrainingImageLabel/Trainner.yml
+face detection/face detection/gui/TrainingImageLabel/psd.txt
